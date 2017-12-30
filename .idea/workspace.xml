@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3d9a07-5d9b-4f46-a30d-1faea085668b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM/src/app/products/product.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM/src/app/products/product-list.component.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" afterPath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
     </list>
@@ -94,7 +94,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="product.ts" pinned="false" current-in-tab="true">
+          <file leaf-file-name="product.ts" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product.ts">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="136">
@@ -104,12 +104,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="product-list.component.ts" pinned="false" current-in-tab="false">
+          <file leaf-file-name="product-list.component.ts" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-                  <folding />
+                <state relative-caret-position="85">
+                  <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+                  <folding>
+                    <element signature="e#0#40#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -118,14 +120,24 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="product-list.component.ts" pinned="false" current-in-tab="true">
+          <file leaf-file-name="product-list.component.ts" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="306">
-                  <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+                  <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
                   <folding>
                     <element signature="e#0#40#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="product-list.component.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -157,6 +169,7 @@
         <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.html" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
+        <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.css" />
       </list>
     </option>
   </component>
@@ -283,12 +296,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514618146394</updated>
-      <workItem from="1514618148400" duration="10698000" />
+      <workItem from="1514618148400" duration="11131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10698000" />
+    <option name="totallyTimeSpent" value="11131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
@@ -404,10 +417,18 @@
     <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
