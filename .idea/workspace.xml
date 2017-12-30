@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc3d9a07-5d9b-4f46-a30d-1faea085668b" name="Default" comment="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/app.component.ts" afterPath="$PROJECT_DIR$/APM/src/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" afterPath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +29,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+          <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/APM/src/app/app.component.ts">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="153">
@@ -104,11 +104,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="product-list.component.ts" pinned="false" current-in-tab="false">
+          <file leaf-file-name="product-list.component.ts" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1462">
-                  <caret line="86" column="29" lean-forward="false" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+                <state relative-caret-position="272">
+                  <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
                   <folding>
                     <element signature="e#0#48#0" expanded="true" />
                   </folding>
@@ -134,9 +134,17 @@
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="275">
-                  <caret line="100" column="3" lean-forward="false" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
+                  <caret line="47" column="3" lean-forward="false" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
                   <folding>
                     <element signature="e#0#48#0" expanded="true" />
+                    <marker date="1514652604975" expanded="true" signature="326:1350" ph="{...}" />
+                    <marker date="1514652604975" expanded="true" signature="534:537" ph="{...}" />
+                    <marker date="1514652604975" expanded="true" signature="702:705" ph="{...}" />
+                    <marker date="1514652604975" expanded="true" signature="765:769" ph="[...]" />
+                    <marker date="1514652604975" expanded="true" signature="828:831" ph="{...}" />
+                    <marker date="1514652604975" expanded="true" signature="1054:1057" ph="{...}" />
+                    <marker date="1514652604975" expanded="true" signature="1121:1124" ph="{...}" />
+                    <marker date="1514652604975" expanded="true" signature="1218:1221" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -203,9 +211,9 @@
         <option value="$PROJECT_DIR$/APM/src/app/shared/star.component.html" />
         <option value="$PROJECT_DIR$/APM/src/app/shared/star.component.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.html" />
-        <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product.service.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
       </list>
     </option>
   </component>
@@ -340,7 +348,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514618146394</updated>
-      <workItem from="1514618148400" duration="16716000" />
+      <workItem from="1514618148400" duration="17200000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor.">
       <created>1514647309136</created>
@@ -353,7 +361,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16716000" />
+    <option name="totallyTimeSpent" value="17200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
@@ -504,16 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="29" lean-forward="false" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APM/src/api/products/products.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="642">
@@ -547,6 +545,16 @@
           <folding>
             <element signature="e#0#40#0" expanded="true" />
             <marker date="1514652158841" expanded="true" signature="159:226" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
