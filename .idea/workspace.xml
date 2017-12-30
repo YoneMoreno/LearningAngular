@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc3d9a07-5d9b-4f46-a30d-1faea085668b" name="Default" comment="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor.">
+    <list default="true" id="dc3d9a07-5d9b-4f46-a30d-1faea085668b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/app.module.ts" afterPath="$PROJECT_DIR$/APM/src/app/app.module.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/products/product.service.ts" afterPath="$PROJECT_DIR$/APM/src/app/products/product.service.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -155,7 +154,7 @@
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product.service.ts">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="207">
-                  <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+                  <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
                   <folding>
                     <element signature="e#0#41#0" expanded="true" />
                   </folding>
@@ -349,7 +348,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514618146394</updated>
-      <workItem from="1514618148400" duration="18233000" />
+      <workItem from="1514618148400" duration="18596000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor.">
       <created>1514647309136</created>
@@ -358,11 +357,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514647309136</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changing hardcoded ProductService to send a http request to read a json file with all the products.">
+      <created>1514653820203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514653820203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18233000" />
+    <option name="totallyTimeSpent" value="18596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
@@ -416,7 +422,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor." />
+    <MESSAGE value="Changing hardcoded ProductService to send a http request to read a json file with all the products." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing hardcoded ProductService to send a http request to read a json file with all the products." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -561,7 +568,7 @@
     <entry file="file://$PROJECT_DIR$/APM/src/app/products/product.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
