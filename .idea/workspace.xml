@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3d9a07-5d9b-4f46-a30d-1faea085668b" name="Default" comment="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/APM/src/app/products/product.service.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/app.component.ts" afterPath="$PROJECT_DIR$/APM/src/app/app.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,13 +29,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+          <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/APM/src/app/app.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="153">
+                  <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
                   <folding>
-                    <marker date="1514623616493" expanded="true" signature="100:167" ph="..." />
+                    <element signature="e#0#40#0" expanded="true" />
+                    <marker date="1514652158841" expanded="true" signature="159:226" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -53,7 +54,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="product-list.component.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="product-list.component.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="271">
@@ -195,7 +196,6 @@
       <list>
         <option value="$PROJECT_DIR$/APM/package.json" />
         <option value="$PROJECT_DIR$/APM/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/APM/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.css" />
         <option value="$PROJECT_DIR$/APM/src/app/shared/convert-to-spaces.pipe.ts" />
@@ -205,6 +205,7 @@
         <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.html" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product.service.ts" />
+        <option value="$PROJECT_DIR$/APM/src/app/app.component.ts" />
       </list>
     </option>
   </component>
@@ -339,7 +340,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514618146394</updated>
-      <workItem from="1514618148400" duration="16464000" />
+      <workItem from="1514618148400" duration="16716000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor.">
       <created>1514647309136</created>
@@ -352,7 +353,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16464000" />
+    <option name="totallyTimeSpent" value="16716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
@@ -453,16 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APM/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1514623616493" expanded="true" signature="100:167" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APM/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -499,8 +490,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/APM/src/app/shared/star.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -515,19 +506,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="100" column="3" lean-forward="false" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
+        <state relative-caret-position="1462">
+          <caret line="86" column="29" lean-forward="false" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,6 +528,25 @@
           <caret line="58" column="5" lean-forward="false" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APM/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1514652158841" expanded="true" signature="159:226" ph="..." />
           </folding>
         </state>
       </provider>
