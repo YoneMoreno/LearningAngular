@@ -6,6 +6,7 @@ import {ProductListComponent} from './products/product-list.component';
 import {ConvertActionBindingResult} from "@angular/compiler/src/compiler_util/expression_converter";
 import {ConvertToSpacesPipe} from "./shared/convert-to-spaces.pipe";
 import {StarComponent} from "./shared/star.component";
+import {HttpClientModule} from "@angular/common/http";
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import {StarComponent} from "./shared/star.component";
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
