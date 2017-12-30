@@ -4,6 +4,7 @@
     <list default="true" id="dc3d9a07-5d9b-4f46-a30d-1faea085668b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/products/product-list.component.html" afterPath="$PROJECT_DIR$/APM/src/app/products/product-list.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" afterPath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -84,8 +85,8 @@
           <file leaf-file-name="product-list.component.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+                <state relative-caret-position="319">
+                  <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
                   <folding />
                 </state>
               </provider>
@@ -108,8 +109,8 @@
           <file leaf-file-name="product-list.component.ts" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="326">
-                  <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+                <state relative-caret-position="170">
+                  <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -139,8 +140,8 @@
         <option value="$PROJECT_DIR$/APM/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/APM/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
         <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.html" />
+        <option value="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
       </list>
     </option>
   </component>
@@ -267,12 +268,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514618146394</updated>
-      <workItem from="1514618148400" duration="6717000" />
+      <workItem from="1514618148400" duration="7589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6717000" />
+    <option name="totallyTimeSpent" value="7589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
@@ -367,18 +368,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
+    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="319">
+          <caret line="39" column="45" lean-forward="false" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.html">
+    <entry file="file://$PROJECT_DIR$/APM/src/app/products/product-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding />
         </state>
       </provider>
