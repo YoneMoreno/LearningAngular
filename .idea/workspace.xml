@@ -4,7 +4,6 @@
     <list default="true" id="dc3d9a07-5d9b-4f46-a30d-1faea085668b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/app.component.ts" afterPath="$PROJECT_DIR$/APM/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" afterPath="$PROJECT_DIR$/APM/src/app/products/product-list.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,14 +66,14 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/APM/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="204">
+              <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-                <marker date="1514739500290" expanded="true" signature="159:448" ph="..." />
-                <marker date="1514739500290" expanded="true" signature="201:437" ph="..." />
-                <marker date="1514739500290" expanded="true" signature="239:424" ph="..." />
-                <marker date="1514739500290" expanded="true" signature="277:409" ph="..." />
+                <marker date="1514739650668" expanded="true" signature="159:505" ph="..." />
+                <marker date="1514739650668" expanded="true" signature="201:494" ph="..." />
+                <marker date="1514739650668" expanded="true" signature="239:481" ph="..." />
+                <marker date="1514739650668" expanded="true" signature="277:466" ph="..." />
               </folding>
             </state>
           </provider>
@@ -256,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514618146394</updated>
-      <workItem from="1514618148400" duration="22220000" />
+      <workItem from="1514618148400" duration="22366000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented a filter to the list of products. We learnt how to use getters/setters, a constructor.">
       <created>1514647309136</created>
@@ -276,7 +275,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22220000" />
+    <option name="totallyTimeSpent" value="22366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="680" y="0" width="680" height="768" extended-state="0" />
@@ -492,14 +491,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/APM/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="204">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
-            <marker date="1514739500290" expanded="true" signature="159:448" ph="..." />
-            <marker date="1514739500290" expanded="true" signature="201:437" ph="..." />
-            <marker date="1514739500290" expanded="true" signature="239:424" ph="..." />
-            <marker date="1514739500290" expanded="true" signature="277:409" ph="..." />
+            <marker date="1514739650668" expanded="true" signature="159:505" ph="..." />
+            <marker date="1514739650668" expanded="true" signature="201:494" ph="..." />
+            <marker date="1514739650668" expanded="true" signature="239:481" ph="..." />
+            <marker date="1514739650668" expanded="true" signature="277:466" ph="..." />
           </folding>
         </state>
       </provider>
